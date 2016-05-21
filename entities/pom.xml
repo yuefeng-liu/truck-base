@@ -15,6 +15,7 @@
     <modules>
         <module>cms</module>
         <module>member</module>
+        <module>common</module>
     </modules>
 
 

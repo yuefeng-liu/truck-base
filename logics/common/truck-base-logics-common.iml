@@ -11,11 +11,15 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="truck-base-repositories-common" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework:spring-jdbc:4.2.5.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework:spring-beans:4.2.5.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework:spring-core:4.2.5.RELEASE" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.springframework:spring-tx:4.2.5.RELEASE" level="project" />
     <orderEntry type="module" module-name="truck-base-entities-common" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.6.5" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.6.5" level="project" />
     <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.6.5" level="project" />
+    <orderEntry type="module" module-name="truck-base-repositories-common" />
     <orderEntry type="library" name="Maven: org.mybatis:mybatis:3.4.0" level="project" />
   </component>
 </module>
